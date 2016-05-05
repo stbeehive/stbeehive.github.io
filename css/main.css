@@ -1544,7 +1544,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffff34;
+  background: #8e60fe;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2291,7 +2291,7 @@ body {
 .site-meta {
   padding: 20px 0;
   color: #fff;
-  background: #222;
+  background: #3d5a98;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .site-meta {
